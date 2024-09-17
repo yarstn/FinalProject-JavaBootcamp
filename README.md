@@ -51,3 +51,10 @@ YARA'S WORK:
 + subscription to email newsletter [yara - Done]
 + cancel subscription email newsletter [yara- Done]
 + get all subscribers [ yara - Done]
+
+
+
+
+
+Email: Yaraalfawaz1@gmail.com
+Linkedin: https://www.linkedin.com/in/yarstn
