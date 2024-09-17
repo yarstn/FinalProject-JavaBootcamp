@@ -11,32 +11,18 @@ POSTMAN LINK:
 
 PRESENTATION LINK:
 
+FIGMA LINK:
 
--Parent
-ParentDTO
-ParentService
-ParentController
-ParentRepo
+YARA'S WORK:
+-Parent CRUD
 
--Child
-ChildController
-ChildService
-ChildRepo
+-Child CRUD
 
--Comment
-CommentController
-CommentService
-CommentRepo
+-Comment CRUD
 
--Complaint
-ComplaintController
-ComplaintService
-ComplaintRepo
+-Complaint CRUD
 
--Newsletter
-Controller
-Service
-Repo
+-Newsletter CRUD
 
 //ENDPOINTS
 + Parent Register [yara-Done]
