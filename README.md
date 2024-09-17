@@ -10,8 +10,10 @@ POSTMAN LINK:
 
 
 PRESENTATION LINK:
+https://www.canva.com/design/DAGRAW7UYs0/GYRJ9MorfaMRkSTe14uk-w/edit?utm_content=DAGRAW7UYs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 FIGMA LINK:
+https://www.figma.com/design/NepUkGbwTIp0ClKUYY0evQ/Untitled?node-id=43-795&t=sr8VAQWjZwXIt156-1
 
 YARA'S WORK:
 -Parent CRUD
